@@ -21,6 +21,8 @@ cd LoRA-vs-LoRA-XS
 pip install -r requirements.txt
 
 
+
+
 ## 📝 Usage
 
 Run the notebook locally:
@@ -34,6 +36,10 @@ Initialize transformer models with LoRA or LoRA-XS adapters
 Train and evaluate on classification tasks
 
 Visualize and compare performance results
+
+
+
+
 
 ## 📊 Results
 
