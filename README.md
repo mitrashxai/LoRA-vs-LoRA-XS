@@ -21,7 +21,7 @@ cd LoRA-vs-LoRA-XS
 pip install -r requirements.txt
 
 
-📝 Usage
+📝## Usage
 
 Run the notebook locally:
 
@@ -35,8 +35,7 @@ Train and evaluate on classification tasks
 
 Visualize and compare performance results
 
-
-📊 Results
+## 📊 Results
 
 Both LoRA and LoRA-XS were applied to classification and log analysis tasks.
 
