@@ -21,7 +21,7 @@ cd LoRA-vs-LoRA-XS
 pip install -r requirements.txt
 
 
-📝## Usage
+## 📝 Usage
 
 Run the notebook locally:
 
