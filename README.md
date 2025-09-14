@@ -20,6 +20,7 @@ git clone https://github.com/<your-username>/LoRA-vs-LoRA-XS.git
 cd LoRA-vs-LoRA-XS
 pip install -r requirements.txt
 
+---
 
 🚀 Usage
 
@@ -36,6 +37,7 @@ Train and evaluate on classification tasks
 Visualize and compare performance results
 
 
+---
 
 📊 Results
 
